@@ -12,4 +12,4 @@ This is a simple web project created to display "Hello World!" in the browser us
 2. Open the `index.html` file in any standard web browser (Chrome, Edge, Firefox).
 
 ## Deployed Link
-- [Live Site Link]([https://your-username.github.io/your-repository-name/](https://gahuniajashan.github.io/my-hello-world-project/))
+- [Live Site Link][https://your-username.github.io/your-repository-name/](https://gahuniajashan.github.io/my-hello-world-project/)
